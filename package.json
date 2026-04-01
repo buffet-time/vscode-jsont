@@ -7,7 +7,7 @@
         "color": "#222",
         "theme": "dark"
     },
-    "version": "0.3.1",
+    "version": "0.3.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/stormwarning/vscode-jsont.git"
@@ -34,7 +34,8 @@
                     ".item",
                     ".list",
                     ".page",
-                    ".region"
+                    ".region",
+                    ".jsont"
                 ],
                 "configuration": "./language-configuration.json"
             },
